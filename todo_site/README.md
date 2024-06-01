@@ -23,6 +23,11 @@ In the root directory of this project, please run the following in your Terminal
 
 `pip3 install -r requirements.txt`
 
+To run the application, in the root directory of this project please run the following in Terminal: 
+
+`python3 manage.py runserver`
+
+
 ---
 
 ### Things Learned
